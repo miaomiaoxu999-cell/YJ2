@@ -1,0 +1,7 @@
+{
+  "name": "Syndicated Loan Pitch Book Generator",
+  "description": "A professional tool for investment bankers to generate syndicated loan pitch decks using AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
