@@ -1,7 +1,6 @@
 {
   "$schema": "https://json.schemastore.org/zeabur",
   "build": {
-    "framework": "vite"
-  },
-  "port": 80
+    "output": "dist"
+  }
 }
