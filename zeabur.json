@@ -1,6 +1,10 @@
 {
   "$schema": "https://json.schemastore.org/zeabur",
   "build": {
+    "command": "npm run build",
     "output": "dist"
+  },
+  "start": {
+    "command": "npx serve dist -s -l 8080"
   }
 }
